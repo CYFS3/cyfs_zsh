@@ -1,0 +1,8 @@
+*.bak
+*.bak.*
+*.log
+*.local.zsh
+local.zsh
+.env
+.env.*
+.DS_Store
